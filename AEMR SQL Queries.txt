@@ -1,3 +1,7 @@
+/* AEMR stands for American Energy Market Regulator, and is responsible for ensuring America’s energy network is reliable and has minimal outages. I wrote these queries
+to focus on energy stability, market outages, energy losses, and market reliability. The data from these queries was used to develop my Tableau presentation: AEMR Case Study.
+You can view my AEMR Case Study visualization in my Tableau public profile. */
+
 -- Counts approved outage events grouped by status and reason for 2016
 SELECT 
   COUNT(*) AS Total_Number_Outage_Events,

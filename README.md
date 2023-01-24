@@ -10,6 +10,6 @@ AEMR saw outages rise over 2016 and 2017 and have two areas of concern:
 The AEMR SQL Queries text file is full of queries I wrote to gather
 data from AEMR's outages database. 
 
-This data will be used to create a Tableau visualization to present to stakeholders, which
+This data was used to create a Tableau visualization to present to stakeholders, which
 you can view in my Tableau public portfolio.
 https://public.tableau.com/app/profile/anthony.stark3004/viz/AEMRCaseStudy_16694175595350/AEMRExecutiveSummary
